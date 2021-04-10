@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url(assets/seashore.jpg) no-repeat center center fixed;
+    background: url(assets/Croatia.jpg) no-repeat center center fixed;
     background-size: cover;
   }
   
@@ -21,7 +21,7 @@ body {
     margin-top: 0px;
   }
 img {
-    width: 22%;
+    width: 21%;
     height: 100%;
     float: right;
     border-radius: 50%;
